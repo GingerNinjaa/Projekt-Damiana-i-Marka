@@ -436,7 +436,7 @@ namespace Projekt_Damian_I_Marek
 
         private void button1_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("https://github.com/GingerNinjaa/Projekt-Damian-I-Marek");
+            System.Diagnostics.Process.Start("https://github.com/GingerNinjaa/Projekt-Damiana-i-Marka");
         }
 
 

@@ -20,3 +20,14 @@ C:\Users\damia\Desktop\przeniesc na dysk\Projekt na obiektówke\Projekt Damian I
 C:\Users\damia\Desktop\przeniesc na dysk\Projekt na obiektówke\Projekt Damian I Marek\obj\Debug\Projekt Damian I Marek.csproj.GenerateResource.cache
 C:\Users\damia\Desktop\przeniesc na dysk\Projekt na obiektówke\Projekt Damian I Marek\obj\Debug\Projekt Damian I Marek.exe
 C:\Users\damia\Desktop\przeniesc na dysk\Projekt na obiektówke\Projekt Damian I Marek\obj\Debug\Projekt Damian I Marek.pdb
+C:\Users\damia\Desktop\IT_swiry\PORTFOLIO\CMSShop\Projekt-Damiana-i-Marka2\bin\Debug\Projekt Damian I Marek.exe.config
+C:\Users\damia\Desktop\IT_swiry\PORTFOLIO\CMSShop\Projekt-Damiana-i-Marka2\bin\Debug\Projekt Damian I Marek.exe
+C:\Users\damia\Desktop\IT_swiry\PORTFOLIO\CMSShop\Projekt-Damiana-i-Marka2\bin\Debug\Projekt Damian I Marek.pdb
+C:\Users\damia\Desktop\IT_swiry\PORTFOLIO\CMSShop\Projekt-Damiana-i-Marka2\obj\Debug\Projekt Damian I Marek.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\IT_swiry\PORTFOLIO\CMSShop\Projekt-Damiana-i-Marka2\obj\Debug\Projekt_Damian_I_Marek.Clues.resources
+C:\Users\damia\Desktop\IT_swiry\PORTFOLIO\CMSShop\Projekt-Damiana-i-Marka2\obj\Debug\Projekt_Damian_I_Marek.Form_haslo.resources
+C:\Users\damia\Desktop\IT_swiry\PORTFOLIO\CMSShop\Projekt-Damiana-i-Marka2\obj\Debug\Projekt_Damian_I_Marek.MainBoard.resources
+C:\Users\damia\Desktop\IT_swiry\PORTFOLIO\CMSShop\Projekt-Damiana-i-Marka2\obj\Debug\Projekt_Damian_I_Marek.Properties.Resources.resources
+C:\Users\damia\Desktop\IT_swiry\PORTFOLIO\CMSShop\Projekt-Damiana-i-Marka2\obj\Debug\Projekt Damian I Marek.csproj.GenerateResource.cache
+C:\Users\damia\Desktop\IT_swiry\PORTFOLIO\CMSShop\Projekt-Damiana-i-Marka2\obj\Debug\Projekt Damian I Marek.exe
+C:\Users\damia\Desktop\IT_swiry\PORTFOLIO\CMSShop\Projekt-Damiana-i-Marka2\obj\Debug\Projekt Damian I Marek.pdb
