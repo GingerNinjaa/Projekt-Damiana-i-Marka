@@ -1,0 +1,11 @@
+C:\Users\damia\Desktop\Projekt na obiektówke\Projekt Damian I Marek\bin\Release\Projekt Damian I Marek.exe.config
+C:\Users\damia\Desktop\Projekt na obiektówke\Projekt Damian I Marek\bin\Release\Projekt Damian I Marek.exe
+C:\Users\damia\Desktop\Projekt na obiektówke\Projekt Damian I Marek\bin\Release\Projekt Damian I Marek.pdb
+C:\Users\damia\Desktop\Projekt na obiektówke\Projekt Damian I Marek\obj\Release\Projekt Damian I Marek.csprojAssemblyReference.cache
+C:\Users\damia\Desktop\Projekt na obiektówke\Projekt Damian I Marek\obj\Release\Projekt_Damian_I_Marek.Clues.resources
+C:\Users\damia\Desktop\Projekt na obiektówke\Projekt Damian I Marek\obj\Release\Projekt_Damian_I_Marek.Form_haslo.resources
+C:\Users\damia\Desktop\Projekt na obiektówke\Projekt Damian I Marek\obj\Release\Projekt_Damian_I_Marek.MainBoard.resources
+C:\Users\damia\Desktop\Projekt na obiektówke\Projekt Damian I Marek\obj\Release\Projekt_Damian_I_Marek.Properties.Resources.resources
+C:\Users\damia\Desktop\Projekt na obiektówke\Projekt Damian I Marek\obj\Release\Projekt Damian I Marek.csproj.GenerateResource.cache
+C:\Users\damia\Desktop\Projekt na obiektówke\Projekt Damian I Marek\obj\Release\Projekt Damian I Marek.exe
+C:\Users\damia\Desktop\Projekt na obiektówke\Projekt Damian I Marek\obj\Release\Projekt Damian I Marek.pdb
